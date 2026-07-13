@@ -49,3 +49,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1 tvg-id="ShemarooBollywood.in" tvg-name="Shemaroo Bollywood v2" tvg-logo="https://raw.githubusercontent.com/ramim247/tv/main/tv-logo/shemaroo_bollywood.png",Shemaroo Bollywood v2
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb573d1e786c608784c93678d1f84482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae774cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8b30c44dc64f3b9011c972c46fa83439c8201ea85d45883178472f247cb97a289d11281e42a5293738aa19d71581fbba43bf9eb5cb8dd96683d99622034713f8482a08e85b81b253938d9ecc2be1f947b612f14f30507ba02964ec64ae2c50438d5806bdadc89de485231a5cc522103a9f3a999f23a3dff09931347ec011ecdaf6e1d77c86fd623615efa999d42d49347d6de27f47dad3318b3f01dbbe4a3f88230c07aaa0580add58b344301470c038d5c98570cb126f077b2c71f2d5d0211e3ca158cb1d050346d5895c070e0534ae995dbd89f3932c4364f01a8788f0f4c2ced247c70e01afc9817659d695fd66273a80e75c869d48c01d9eb9be90f30b09ee047fc64e0fc4af1fe10a660391653e0a3620f0b1c3380ae550c3678d14cab8699b6395a569e82a794f75a36033600414cdab29517b5ba80784d589129650a1237189903da6ca5706a083cc613d6ec4434b20f2f29e9b02c1f3d4893dbba9588c6c027e42984d79cd94e98e2946155f9b6f67f5703a97295cd8db6ceb58d65/167/1280x720_3329040/index.m3u8
 
+# ================
+# Sprots Channels
+# ================
+
+#EXTINF:-1 tvg-id="CazeTV.br" tvg-logo="https://raw.githubusercontent.com/ramim247/tv/main/tv-logo/Caz%C3%A9TV.png" group-title="Sports",CazéTV BR
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
